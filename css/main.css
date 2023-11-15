@@ -27,8 +27,8 @@ body {
 }
 
 .item {
-	width: calc(var(--index) * 3.5);
-	height: calc(var(--index) * 18);
+	width: calc(var(--index) * 4.5);
+	height: calc(var(--index) * 16);
 	background-color: #222;
 	background-size: cover;
 	background-position: center;
